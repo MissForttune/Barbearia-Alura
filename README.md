@@ -1,2 +1,2 @@
 # Barbearia-Alura
-Este projeto tem como objetivo  praticar HTML e css
+Este projeto tem como objetivo  praticar HTML e CSS dentro do SUBLIME
