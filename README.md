@@ -1,2 +1,2 @@
 # Barbearia-Alura
-Site para Barbearia 
+Este projeto tem como objetivo  praticar HTML e css
